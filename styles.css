@@ -344,4 +344,6 @@ body {
     padding: 20px;
     text-align: center;
   }
-  
+  html {
+    scroll-behavior: smooth;
+  }
